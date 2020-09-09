@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIMPGCalculation.Android", "IIMPGCalculation.Android\IIMPGCalculation.Android.csproj", "{494DA01D-5C8A-486C-A63A-A534722F6DC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IIMPGCalculation", "IIMPGCalculation\IIMPGCalculation.csproj", "{07F79CD8-3FE8-499A-9417-CC1BC46949B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494DA01D-5C8A-486C-A63A-A534722F6DC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494DA01D-5C8A-486C-A63A-A534722F6DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494DA01D-5C8A-486C-A63A-A534722F6DC1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{494DA01D-5C8A-486C-A63A-A534722F6DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494DA01D-5C8A-486C-A63A-A534722F6DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494DA01D-5C8A-486C-A63A-A534722F6DC1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{07F79CD8-3FE8-499A-9417-CC1BC46949B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F79CD8-3FE8-499A-9417-CC1BC46949B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F79CD8-3FE8-499A-9417-CC1BC46949B6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{07F79CD8-3FE8-499A-9417-CC1BC46949B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F79CD8-3FE8-499A-9417-CC1BC46949B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F79CD8-3FE8-499A-9417-CC1BC46949B6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60BBD575-3728-4892-B0C5-C742B3DF1953}
+	EndGlobalSection
+EndGlobal
